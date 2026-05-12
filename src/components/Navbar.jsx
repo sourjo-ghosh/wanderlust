@@ -14,8 +14,8 @@ const links = [
   },
   {
     id: 2,
-    href: "/destinations",
-    pathName: "Destinations",
+    href: "/add-destination",
+    pathName: "Add Destination",
   },
   {
     id: 3,
